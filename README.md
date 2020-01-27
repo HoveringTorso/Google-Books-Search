@@ -1,3 +1,3 @@
 # Google-Books-Search
 
-[`Heroku demo`](https://github.com/reactjs/react-router)
+[`Heroku demo`](https://google-books-search-homework.herokuapp.com/)
