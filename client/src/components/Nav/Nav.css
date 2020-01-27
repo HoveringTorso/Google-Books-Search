@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #EB6864;
+
+}
+
+.search:hover {
+    background-color: #ec544e;
+    border: none;
+}
+
+.saved:hover {
+    background-color: #ec544e;
+    border: none;
+}
