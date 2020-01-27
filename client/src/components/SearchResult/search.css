@@ -1,0 +1,28 @@
+.searchList{
+    margin: 2rem;
+    background-color: rgb(255, 188, 185);
+    color: white;
+}
+
+.card {
+    border-radius: 0;
+    border: none;
+    margin-bottom: 4rem;
+    background-color: rgb(253, 148, 143);
+}
+
+.saveBook, .viewBook {
+    border: none;
+    font-size: 1.5rem;
+    background-color: #EB6864;
+}
+
+.saveBook:hover {
+    border: none;
+    background-color: rgb(245, 73, 67);
+}
+
+.viewBook:hover {
+    border: none;
+    background-color: rgb(245, 73, 67);
+}
